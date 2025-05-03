@@ -4,6 +4,14 @@ Este é um projeto simples desenvolvido como parte de um desafio do [Frontend Me
 
 ![Preview do Projeto](./assets/images/preview-readme.png)
 
+---
+
+# 🌐 Acesse o Projeto Publicado
+
+## ➡️ [Clique aqui para visualizar online](https://codebyneander.github.io/code-qr-component-project/)
+
+---
+
 ## 🎯 Objetivo
 
 O principal objetivo foi:
@@ -34,3 +42,22 @@ Este desafio foi retirado da plataforma **Frontend Mentor**:
 ## 🚫 Evoluções Futuras
 
 Este projeto não será evoluído, pois foi feito apenas com o objetivo de cumprir o desafio e praticar os fundamentos.
+
+---
+
+## 👤 Autor
+
+- Nome: **Renan Guilherme**
+- Frontend Mentor: [@renan-guilherme](https://www.frontendmentor.io/profile/codebyneander)
+- Instagram Dev: [@renanguilherme.dev](https://instagram.com/renanguilherme.dev)
+- LinkedIn: [Renan Guilherme](https://linkedin.com/in/renan-guilherme)
+
+---
+
+## 🙏 Agradecimentos
+
+Agradeço ao **Frontend Mentor** pela proposta prática, e também à mim mesmo pela consistência nessa fase de evolução como dev.
+
+---
+
+> Projeto desenvolvido como parte do meu processo de crescimento no mundo do desenvolvimento web. Um pequeno passo no código, um salto na jornada. 🚀
